@@ -1,0 +1,13 @@
+h1 {
+    color:orange;
+
+    }
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50;
+    border: 10 solid black;
+    background-color: red;
+}
